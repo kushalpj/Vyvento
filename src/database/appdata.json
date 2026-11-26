@@ -1,0 +1,264 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+      "price": 109.95,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_t.png",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    },
+    {
+      "id": "4",
+      "title": "Mens Casual Slim Fit",
+      "price": 15.99,
+      "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_t.png",
+      "rating": {
+        "rate": 2.1,
+        "count": 430
+      }
+    },
+    {
+      "id": "5",
+      "title": "John Hardy Women's Legends Naga Gold",
+      "price": 695,
+      "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_t.png",
+      "rating": {
+        "rate": 4.6,
+        "count": 400
+      }
+    },
+    {
+      "id": "6",
+      "title": "Solid Gold Petite Micropave ",
+      "price": 168,
+      "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_t.png",
+      "rating": {
+        "rate": 3.9,
+        "count": 70
+      }
+    },
+    {
+      "id": "7",
+      "title": "White Gold Plated Princess",
+      "price": 9.99,
+      "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_t.png",
+      "rating": {
+        "rate": 3,
+        "count": 400
+      }
+    },
+    {
+      "id": "8",
+      "title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+      "price": 10.99,
+      "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_t.png",
+      "rating": {
+        "rate": 1.9,
+        "count": 100
+      }
+    },
+    {
+      "id": "9",
+      "title": "WD 2TB Elements Portable External Hard Drive - USB 3.0 ",
+      "price": 64,
+      "description": "USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High Capacity; Compatibility Formatted NTFS for Windows 10, Windows 8.1, Windows 7; Reformatting may be required for other operating systems; Compatibility may vary depending on user’s hardware configuration and operating system",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_t.png",
+      "rating": {
+        "rate": 3.3,
+        "count": 203
+      }
+    },
+    {
+      "id": "10",
+      "title": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+      "price": 109,
+      "description": "Easy upgrade for faster boot up, shutdown, application load and response (As compared to 5400 RPM SATA 2.5” hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores) Boosts burst write performance, making it ideal for typical PC workloads The perfect balance of performance and reliability Read/write speeds of up to 535MB/s/450MB/s (Based on internal testing; Performance may vary depending upon drive capacity, host device, OS and application.)",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_t.png",
+      "rating": {
+        "rate": 2.9,
+        "count": 470
+      }
+    },
+    {
+      "id": "11",
+      "title": "Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5",
+      "price": 109,
+      "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_t.png",
+      "rating": {
+        "rate": 4.8,
+        "count": 319
+      }
+    },
+    {
+      "id": "12",
+      "title": "WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive",
+      "price": 114,
+      "description": "Expand your PS4 gaming experience, Play anywhere Fast and easy, setup Sleek design with high capacity, 3-year manufacturer's limited warranty",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_t.png",
+      "rating": {
+        "rate": 4.8,
+        "count": 400
+      }
+    },
+    {
+      "id": "13",
+      "title": "Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin",
+      "price": 599,
+      "description": "21. 5 inches Full HD (1920 x 1080) widescreen IPS display And Radeon free Sync technology. No compatibility for VESA Mount Refresh Rate: 75Hz - Using HDMI port Zero-frame design | ultra-thin | 4ms response time | IPS panel Aspect ratio - 16: 9. Color Supported - 16. 7 million colors. Brightness - 250 nit Tilt angle -5 degree to 15 degree. Horizontal viewing angle-178 degree. Vertical viewing angle-178 degree 75 hertz",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_t.png",
+      "rating": {
+        "rate": 2.9,
+        "count": 250
+      }
+    },
+    {
+      "id": "14",
+      "title": "Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ",
+      "price": 999.99,
+      "description": "49 INCH SUPER ULTRAWIDE 32:9 CURVED GAMING MONITOR with dual 27 inch screen side by side QUANTUM DOT (QLED) TECHNOLOGY, HDR support and factory calibration provides stunningly realistic and accurate color and contrast 144HZ HIGH REFRESH RATE and 1ms ultra fast response time work to eliminate motion blur, ghosting, and reduce input lag",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_t.png",
+      "rating": {
+        "rate": 2.2,
+        "count": 140
+      }
+    },
+    {
+      "id": "15",
+      "title": "BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats",
+      "price": 56.99,
+      "description": "Note:The Jackets is US standard size, Please choose size as your usual wear Material: 100% Polyester; Detachable Liner Fabric: Warm Fleece. Detachable Functional Liner: Skin Friendly, Lightweigt and Warm.Stand Collar Liner jacket, keep you warm in cold weather. Zippered Pockets: 2 Zippered Hand Pockets, 2 Zippered Pockets on Chest (enough to keep cards or keys)and 1 Hidden Pocket Inside.Zippered Hand Pockets and Hidden Pocket keep your things secure. Humanized Design: Adjustable and Detachable Hood and Adjustable cuff to prevent the wind and water,for a comfortable fit. 3 in 1 Detachable Design provide more convenience, you can separate the coat and inner as needed, or wear it together. It is suitable for different season and help you adapt to different climates",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_t.png",
+      "rating": {
+        "rate": 2.6,
+        "count": 235
+      }
+    },
+    {
+      "id": "17",
+      "title": "Rain Jacket Women Windbreaker Striped Climbing Raincoats",
+      "price": 39.99,
+      "description": "Lightweight perfet for trip or casual wear---Long sleeve with hooded, adjustable drawstring waist design. Button and zipper front closure raincoat, fully stripes Lined and The Raincoat has 2 side pockets are a good size to hold all kinds of things, it covers the hips, and the hood is generous but doesn't overdo it.Attached Cotton Lined Hood with Adjustable Drawstrings give it a real styled look.",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2t.png",
+      "rating": {
+        "rate": 3.8,
+        "count": 679
+      }
+    },
+    {
+      "id": "19",
+      "title": "Opna Women's Short Sleeve Moisture",
+      "price": 7.95,
+      "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_t.png",
+      "rating": {
+        "rate": 4.5,
+        "count": 146
+      }
+    },
+    {
+      "title": "watch",
+      "price": "35",
+      "description": "    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque a rem incidunt provident quam, nihil voluptate nemo praesentium eum consectetur vitae vel repellat delectus, at placeat nesciunt, quasi quibusdam ullam!",
+      "category": "electronics",
+      "image": "https://in.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-tambour-convergence-automatic-37mm-rose-gold--W9PG21_PM2_Front%20view.png?wid=490&hei=490",
+      "rating": {
+        "rate": "4.5",
+        "count": "111"
+      },
+      "id": "Kceenfxi4vA"
+    },
+    {
+      "title": "TV",
+      "price": 10,
+      "description": "    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque a rem incidunt provident quam, nihil voluptate nemo praesentium eum consectetur vitae vel repellat delectus, at placeat nesciunt, quasi quibusdam ullam!",
+      "category": "electronics",
+      "image": "https://cdn.pixabay.com/photo/2026/10/06/10/01/10-01-31-786_1280.jpg",
+      "rating": {
+        "rate": 3.2,
+        "count": 20
+      },
+      "id": "Bx96-rRYnmU"
+    },
+    {
+      "title": "TV",
+      "price": 15,
+      "description": "    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque a rem incidunt provident quam, nihil voluptate nemo praesentium eum consectetur vitae vel repellat delectus, at placeat nesciunt, quasi quibusdam ullam!",
+      "category": "electronics",
+      "image": "data:image/jpeg;base64,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",
+      "rating": {
+        "rate": 3.4,
+        "count": 3
+      },
+      "id": "Y6vvtTpe4FQ"
+    }
+  ],
+  "users": [
+    {
+      "id": "DGtNpn1TZOQ",
+      "username": "Dinga",
+      "contact": "6364529431",
+      "email": "dinga@gmial.com",
+      "password": "12345",
+      "dob": "2000-01-01",
+      "place": "kashmir"
+    },
+    {
+      "id": "xpGdPCpb1tM",
+      "username": "Kushal",
+      "contact": "6364529431",
+      "email": "kushk6@gmail.com",
+      "password": "123",
+      "dob": "2002-01-01",
+      "place": "mandya"
+    },
+    {
+      "id": "VH5Pli7TvgY",
+      "username": "gnaneswar",
+      "contact": "6364529431",
+      "email": "kushk6705@gmail.com",
+      "password": "123456",
+      "dob": "2026-10-29",
+      "place": "hduowg"
+    }
+  ],
+  "cartitems": [
+    {
+      "id": "g_rbUICxVJ8",
+      "title": "Mens Casual Slim Fit",
+      "price": 15.99,
+      "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_t.png",
+      "rating": {
+        "rate": 2.1,
+        "count": 430
+      }
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

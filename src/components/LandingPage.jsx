@@ -1,0 +1,37 @@
+import React, { useState } from 'react'
+import AdminLogin from './Admin/AdminLogin';
+import UsersLogin from './Users/UsersLogin';
+import { Link } from 'react-router-dom';
+
+const LandingPage = () => {
+  const [bool, setBool] = useState(true);
+
+  const handleBool = () => {
+    setBool(!bool);
+  };
+  return (
+    <>
+      <div className="landing_page">
+        <div className="container">
+          <div id="togglebox">
+            <div className="toggle">
+              <button onClick={handleBool} className={bool ? "" : "right"}>
+                {bool ? "Admin" : "User"}
+              </button>
+            </div>
+          </div>
+          <div className="loginbox">
+            <div className="login">
+              {bool ? <AdminLogin /> : <UsersLogin />}
+              <div className="forgotpass">
+                <Link>Forgot Password</Link>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </>
+  );
+}
+
+export default LandingPage
